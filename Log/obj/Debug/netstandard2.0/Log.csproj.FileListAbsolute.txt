@@ -1,0 +1,9 @@
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Log\bin\Debug\netstandard2.0\Log.deps.json
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Log\bin\Debug\netstandard2.0\Log.dll
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Log\bin\Debug\netstandard2.0\Log.pdb
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Log\obj\Debug\netstandard2.0\Log.csprojAssemblyReference.cache
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Log\obj\Debug\netstandard2.0\Log.csproj.CoreCompileInputs.cache
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Log\obj\Debug\netstandard2.0\Log.AssemblyInfoInputs.cache
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Log\obj\Debug\netstandard2.0\Log.AssemblyInfo.cs
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Log\obj\Debug\netstandard2.0\Log.dll
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Log\obj\Debug\netstandard2.0\Log.pdb

@@ -1,0 +1,14 @@
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\bin\Debug\netcoreapp2.1\Log.dll
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\bin\Debug\netcoreapp2.1\Log.pdb
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\obj\Debug\netcoreapp2.1\Test.dll
+C:\Users\ecoban\source\repos\LogManagement\LogManagement\Test\obj\Debug\netcoreapp2.1\Test.pdb
